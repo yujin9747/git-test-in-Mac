@@ -1,0 +1,5 @@
+This is for my git testing. 
+I'm not yet make remote repository now. 
+This is a local working tree. 
+I'd giv command "git init" to this directory. 
+Is there a local repository now..? I am no sure about that now. 
